@@ -1,50 +1,50 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Unleashing the Power of Generative AI: Natty or Not?
 
-## 🚀 Introdução
+## 🚀 Introduction
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Inspired by the fitness world's "Natty or Not" debate, this challenge invites you to dive into the realm of generative AI. Let's explore the potential of these incredible technological trends!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
+### The Challenge
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+1. **Explorar IAs Generativas**: Your mission is to create content so realistic that it's indistinguishable from human-generated work. Be creative! You can produce images, text, audio, video, or any combination.
 1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+    1. Fork the Repo: Create a copy of the repository on your GitHub.
+    2. Edit Your README: Use the provided template to describe your project.
+    3. Submit Your Link: Share the link to your repository on the DIO platform. 🚀
+1. **Efeito de Rede**: Share Your Work: Use the hashtag #LabDIONattyOrNot on social media to showcase your creations. **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Translated or nor translated ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📒 Descriton
+The objective is use a LLM to translate this markdow
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini AI
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🧐 Process criation
+This process was very simple. The text was copy and past on the chat and asked to translate. However, some content, such as results, was not translated by AI, and some titles are in portuguese yet.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🚀 Results
+It was very simple realize this translated.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+IA can be really impressive in some tasks. Although some marks was not tranlated and I believe that was because of some characterists of the chats and I need to learn more about it.
 ```
 
-### Exemplos e Insigths
+### Example Projects and Insights:
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
+## Helpful Resources:
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
